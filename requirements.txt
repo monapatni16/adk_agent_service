@@ -1,0 +1,9 @@
+google-adk=1.13.0
+litellm=1.76.1
+fastapi=0.116.1
+uvicorn[standard]=0.35.0
+pydantic=2.11.7
+structlog=25.4.0
+tenacity=8.5.0
+prometheus-client=0.22.1
+pydantic-settings=2.10.1
